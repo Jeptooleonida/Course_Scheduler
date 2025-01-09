@@ -7,13 +7,13 @@
 
  ## Sample Screenshots
  ### Home page
- ![Home Page](../final%20course_scheduler/frontend_scheduler/src/assets/home.png)
+ ![Home Page](./screenshots/home.png)
  ### Department Page
- ![Department Page](../final%20course_scheduler/frontend_scheduler/src/assets/department.png)
+ ![Department Page](./screenshots/department.png)
  ### Majors Page
- ![Majors Page](../final%20course_scheduler/frontend_scheduler/src/assets/majors.png)
+ ![Majors Page](./screenshots/majors.png)
  ### Search Results
- ![Search Results Page](../final%20course_scheduler/frontend_scheduler/src/assets/search.png)
+ ![Search Results Page](./screenshots/search.png)
 
 
   ## Developer Manual
